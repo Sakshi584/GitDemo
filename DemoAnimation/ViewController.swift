@@ -13,6 +13,7 @@ class ViewController: UIViewController {
   @IBOutlet var btnToBounce: UIButton!
   
   override func viewDidLoad() {
+    print("Hello")
     super.viewDidLoad()
   }
   
